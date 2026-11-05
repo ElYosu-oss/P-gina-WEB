@@ -1,0 +1,278 @@
+body {
+	font: 12px Arial, Tahoma, Verdana, sans-serif;
+	background-color: #f4f4f9
+}
+
+/* DIV CONTENEDOR GENERAL */
+#wrapper {
+	width: 960px;
+	margin: auto;
+}
+
+/* Header
+-----------------------------------------------------------------------------*/
+#header {
+	height: 150px;
+	text-align: center;
+	font-size:50px;
+	background-image: url(../images/home-1.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	padding: 50px;
+	border-radius: 500px;
+	color: rgb(0, 255, 55);
+}
+
+/* Middle
+-----------------------------------------------------------------------------*/
+#middle {
+	width: 100%;
+    overflow: auto;
+}
+
+
+#content {
+    /*Si no asociamos anchura al content intenta coger el 100% y se coloca en una línea diferente a la del #sideRight*/
+	
+	float: left;
+    padding-top: 50px;  
+	padding-bottom: 30px;
+	text-align: center; 
+	font-size: 13px;
+	
+}
+
+
+
+/*Diseño de Pagina Inicio*/
+#cssmenu{
+	padding-top: 10px;
+}
+#Vídeo {padding-top: 30px;
+}
+
+#sideRight {
+	float: left;	
+	text-align: center;
+	padding-top: 40px;
+	font-size: 13px;
+}
+#ser{
+	font-family:'Times New Roman', Times, serif ;
+	font-size: 50px;
+	font-style: oblique;
+	color: red;
+}
+
+#ser2{
+	font-size: 20px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#Dedica{
+	font-family:'Times New Roman', Times, serif ;
+	font-size: 50px;
+	font-style: oblique;
+	color: red;
+}
+#dedica2{
+	
+	font-size: 20px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#foto1{
+	height: 250px;
+	width: 400px;
+	padding-top: 20px;
+}
+#foto2{ 
+	height: 250px;
+	width: 300px;
+}
+
+
+/*Diseño de Pagina Información*/
+li{
+	font-size: 16px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+	font-family:'Times New Roman', Times, serif ;
+	font-size: 50px;
+	font-style: oblique;
+	color: red;
+}
+
+#Descripciónsendo{
+	font-size: 18px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#sendokai-3{
+	padding:20px ;
+}
+#gormiti1{
+	height: 500px;
+	padding-left: 60px;
+	width: 790px;
+}
+#Mutant{
+	height: 500px;
+	padding-left: 60px;
+	width: 790px;
+}
+
+/*Diseño de Pagina Galería*/
+#algo{
+	font-size: 17px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#Listamotora{
+	font-size: 17px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-align:justify;
+}
+p{
+	font-size: 20px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#Trabajadores{
+	height: 250px;
+	width: 300px;
+	padding-bottom: 20px;
+}
+#Trabajadores2{
+	height: 250px;
+	width: 300px;
+	padding-bottom: 20px;
+}
+#trabajadores3{
+	height:  250px;
+	width: 300px;
+	padding-bottom: 20px;
+}
+
+#Información{
+	font-size: 18PX;
+	text-align: center;
+}
+
+
+#MotoresGráficos{
+	font-size: 18px;
+	text-align: center;
+}
+
+#Modelo1{
+	height: 250px;
+	width: 400px;
+	padding-top: 20px;
+
+}
+#Modelo2{
+	height: 250px;
+	width: 400px;
+	padding-top: 20px;
+
+}
+#modelo3{
+height: 250px;
+	width: 400px;
+	padding-top: 20px;
+}
+#modelo4{
+	height: 250px;
+	width: 400px;
+	padding-top: 20px;
+}
+#modelo5{
+	height: 250px;
+	width: 400px;
+	padding-top: 20px;
+}
+ /*Diseño de Pagina Productos*/
+#Banner{
+	height: 150px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	font-size:50px;
+	background-size:cover;
+	background-repeat: no-repeat;
+	height:259px ; 
+}
+#Taza{
+	width: 150px;
+	padding-top: 20px;
+}
+
+#camisa{
+	width: 150px;
+	padding-top: 20px;
+}
+#table{
+	border-color: rgb(3, 0, 26);
+}
+th{
+	background-color: #ffffff;
+}
+tr{	
+	text-align: center;
+	font-style: italic;
+	font-size: 15px;
+	background-color: #ffffff;
+	color: #333333;
+}
+td{
+	text-align: center;
+	font-style: italic;
+	font-size: 15px;
+	color: #333333;
+}
+#advertencia{
+	text-align: center;
+	color: rgb(85, 0, 255);
+	font-style: italic;
+}
+/*Diseño de Pagina Contacto*/
+#Contacta{
+	padding-top: 10px;
+}
+#Títulocontacto{
+	font-family:'Times New Roman', Times, serif
+}
+#Formulario{
+	font-size: 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: justify;
+}
+/*Diseño de Pagina Contacto*/
+fieldset{
+	border-color: rgb(0, 0, 0);
+}
+form{
+	color: rgb(0, 0, 0);
+}
+input{
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	border-radius: 5px;
+}
+/* Footer
+-----------------------------------------------------------------------------*/
+#Kotoc {
+    float: right;      
+    height: 90px;       
+}
+
+#instagram {
+    float: left;
+    right: 90px;        
+    height: 100px;   
+	padding-right: 30px;    
+}
+
+#tiktok {
+   float:left;
+    right: 20px;     
+	height: 100px;    
+}
